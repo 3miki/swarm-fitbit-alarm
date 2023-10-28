@@ -1,7 +1,7 @@
 # swarm-fitbit-alarm
 
 - Uses Fitbit SDK and Node
-- Uses Twillio SMS API
+- Uses Twilio SMS API
 
 ## Set up backend, then fitbit-app
 - Either run backend locally or deployed to Fly.io, following the [backend README](backend/README.md).
