@@ -2,9 +2,9 @@
 Press a secret and silent alarm on your fitbit to notify your emergency contact with your GPS location by SMS
 
 ## Set up
-- install [Node](https://nodejs.org/en), e.g. v18 LTS
-- install pnpm: `npm install --global pnpm`
-- install dependencies: `pnpm i`
+- Install [Node](https://nodejs.org/en), e.g. v18 LTS
+- Install pnpm: `npm install --global pnpm`
+- Install dependencies: `pnpm i`
 - Accept developer terms on gam.fitbit.com
 - Download Fitbit simulator from https://dev.fitbit.com/getting-started/
 
